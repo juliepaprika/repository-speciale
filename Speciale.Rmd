@@ -22,7 +22,7 @@ Her står der noget tekst
 \section*{Indledning}
 \addcontentsline{toc}{section}{Indledning}
 Det er vigtigt at undersøge hvordan man kan glatte brugere af metroen ud. Allerede tidligere har der været kapacitetsproblemer, især omkring Amagerbro og Nørreport, hvilket er blevet afhjulpet af at fjerne nogle af siddepladserne i metroen. Men med åbningen af Metro Cityringen og det øgede befolkningstal i København vil der i fremtiden opleves større pres på kapaciteten i metroen i myldretiden. Omvendt er der perioder af dagen hvor der ikke er mange mennesker med metroen. Det er et klassisk spilteori dilemma, af et offentlig tilgængeligt gode. Når en ekstra bruger stiger på metroen, oplever denne først og fremmest en nytte ved at blive transporteret fra A til B. Tilgengæld påfører brugeren en negativ eksternalitet for de brugere der allerede er inde i metroen, da der nu ikke er nok siddepladser og man skal stå tæt op ad hinanden. Dette fænomen kaldes crowding cost. 
-En måde at få folk til at fordele sig over dagen er ved hjælp af prisdiskriminering/prisdifferentierng. Ved at øge priserne for rejsende i myldretiden og mindske priserne for rejsende udenfor myldretiden kan man få folk til at bruge metroen på andre tidspunkter.
+En måde at få folk til at fordele sig over dagen er ved hjælp af prisdiskriminering/prisdifferentierng. Ved at øge priserne for rejsende i myldretiden og mindske priserne for rejsende udenfor myldretiden kan man få folk til at bruge metroen på andre tidspunkter. RET
 \subsection*{Litteratur}
 \addcontentsline{toc}{subsection}{Litteratur}
 \cite{de_palma_dynamic_2010} og \cite{fosgerau_marginal_2009} og \cite{hjorth_estimating_2015} og \cite{de_palma_economics_2015} og \cite{hall_pareto_2015} og \cite{de_palma_discomfort_2015}
